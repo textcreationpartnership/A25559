@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Mr. Collier's Defence of his absolution of Sir William Parkins, at the place of execution which defence is printed at length, and considered paragraph by paragraph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25559</idno>
+            <idno type="STC">Wing A3367</idno>
+            <idno type="STC">ESTC R16308</idno>
+            <idno type="EEBO-CITATION">11732772</idno>
+            <idno type="OCLC">ocm 11732772</idno>
+            <idno type="VID">48410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 482:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Mr. Collier's Defence of his absolution of Sir William Parkins, at the place of execution which defence is printed at length, and considered paragraph by paragraph.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collier, Jeremy, 1650-1726. --  Defence of the absolution given to Sr. William Perkins, at the place of execution, April the 3d.</term>
+               <term>Parkyns, William, --  Sir, 1649?-1696.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48410:1"/>
+            <pb n="1" facs="tcp:48410:1" rendition="simple:additions"/>
+            <head>AN ANSWER TO Mr. <hi>COLLIER</hi>'s DEFENCE OF HIS Abſolution of Sir <hi>William Parkins,</hi> At the P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of EXECUTION. Which Defence is Printed at length, and conſide<g ref="char:EOLhyphen"/>red Paragraph by Paragraph.</head>
+            <p>MR <hi>Collier</hi>'s Defence of his Abſolution having made a great Noiſe, and being lookt upon as very material by his own Par<g ref="char:EOLhyphen"/>ty, its thought fit for the ſatisfaction of the Publick to give his Defence <hi>Verbatim,</hi> that the Arguments of this Abſolving Patriark may appear in their full ſtrength, and we doubt not but the Anſwers annexed may be of ſome uſe to let his deluded Party ſee how he has betraid their Cauſe inſtead of injuring ours by his unpre<g ref="char:EOLhyphen"/>ſidented Abſolution, and weak Defence.</p>
+            <div type="defense">
+               <pb n="2" facs="tcp:48410:2"/>
+               <head>DEFENCE.</head>
+               <p>MY being preſent, and in ſome meaſure Officiating at the Place of <hi>Execution</hi> on <hi>Friday</hi> laſt, has been extreamly miſunderſtood. The <hi>Weekly Intel<g ref="char:EOLhyphen"/>ligence,</hi> together with the <hi>Remarker,</hi> have cenſured this Action with a great deal of Liberty, and Heat. I thank God I am not eaſily diſturbed with in<g ref="char:EOLhyphen"/>temperate Language, eſpecially when 'tis given without Occaſion. So that if Matters had gone no farther, I could have paſſed over the ill <g ref="char:V">Ʋ</g>ſage and ſaid n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thing. I confeſs, having received notice that ſome Perſons of Figure threat<g ref="char:EOLhyphen"/>ned me with Impriſonment, I took a little care of my ſelf; and, as it happen'd, not without reaſon. For on <hi>Monday</hi> about Twelve at Night, ſix or eight Per<g ref="char:EOLhyphen"/>ſons ruſhed into my Lodgings, broke open a Trunck, and ſeiz'd ſome <hi>Papers</hi> of Value, tho' perfectly Inoffenſive, and Foreign to their Purpoſe. And ſince, I underſtand there is a <hi>Bill</hi> found againſt me for <hi>High Miſdemeanours.</hi> And now one would think I had done ſomething very extraordinary.</p>
+               <p>I ſhall therefore make a brief Report of Matters of Fact, and leave the World to judge, whether all theſe Cenſures and Severities are deſerved or not.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>BY Mr. <hi>Colliers</hi> proemium, where he talks of his <hi>having officiated at the place of Execution,</hi> one would at firſt glance be induced to think that he had been aſſiſtant to the Hangman, and truly to be ſerious with him, their's reaſon to fe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r that his performance there, was neither ſo uſeful nor harm<g ref="char:EOLhyphen"/>leſs <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s that of the other, for certainly any thing which contributes to the deluding of the Soul (as its to be feared this cheating Abſolution did) is of more dangerous Conſequence than that which tends to the deſtructi<g ref="char:EOLhyphen"/>on of the Body.</p>
+               <p>The <hi>liberty taken by the Weekly Intelligence, and the Remarker which</hi> Mr. <hi>Collier</hi> complains of comes far ſhort of the boundleſs liberty which he himſelf took to pronounce ſuch an Abſolution, which is now <hi>cenſured</hi> with as much or more ſeverity by the Fathers of the Church, whoſe proper Province it is. And if Mr. <hi>Collier</hi> did no more than what is required by the Church of <hi>England</hi> in the Office for Viſitation of the Sick, why did he flie? does not he know that the Church of <hi>England</hi> is eſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abliſhed by Law? and that there was never a time when the Subjects had Juſtice more freely allowed them than now. Or does Mr. <hi>Collier</hi> ſuppoſe that he under<g ref="char:EOLhyphen"/>ſtands the Law better than the Judge who gave it in Charge to the Grand Jury, to enquire into the Legality of his Practiſe? or is there any reaſon to think that Gentlemen of the Communion of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> are ſo ill acquainted with the Offices of that Church, that they are not competent Judges when they are legally performed? or that the whole Grand Jury ſhould be ſo far tranſported with Prejudice or Paſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="3" facs="tcp:48410:2"/>as to find a Bill of High Miſdemeanour againſt him, if there had been no cauſe for it, but this is like the Arrogance of the Party, for <hi>no doubt they are the Men, and Wiſdom ſhall die with them.</hi>
+               </p>
+               <p>That the Government had reaſon to order him to be taken up, all men but thoſe of his own kidney are very well ſatisfied, and that he has done ſomething very extraordinary, cannot be denied, for the Rubrick is concerning perſons that are Sick, and ſays not own word of impeni<g ref="char:EOLhyphen"/>ten Criminals: The Rubrick enjoyns that the ſick perſon ſhall be moved to make a ſpecial Confeſſion if his Conſcience be troubled with any weighty matter, but it does not appear that Mr <hi>Collier</hi> took that method with Sir <hi>William Parkins,</hi> though its apparent from that wretched Gentleman's Confeſſion to the Committee of Parliament, that he own'd himſelf Cri<g ref="char:EOLhyphen"/>minal, in conſenting to the Aſſaſſination, which was <hi>matter of weight enough to trouble his Conſcience,</hi> to think that he ſhould have brought him<g ref="char:EOLhyphen"/>ſelf to that ſhameful death; and entailed perpetual diſgrace upon his Family by doing that which he own'd to be a Crime, and as his fault had been publick, Mr <hi>Collier</hi> ſhould for his own ſake at leaſt have mov'd him to a publick Confeſſion, which ſeeing he did not, it was ground enough for the Government to preſume that Mr. <hi>Collier</hi> did rather harden him in his Impenitence, than move him to Repentance, and will juſtifie it in the eyes of the World, in ſending to apprehend him.</p>
+               <p>It appears farther that Mr. <hi>Collier</hi> did an <hi>extraordinary thing,</hi> becauſe he abſolved Sir <hi>William</hi> not only without a publick Confeſſion of that which the Friends of the Government thought a publick fault, but even without a publick Confeſſion of that which his own party muſt needs own to be a fault, if they look upon the late King <hi>James</hi>'s <hi>Cauſe to be the Cauſe of God and true Religion,</hi> as it is expreſſed in Sir <hi>John Friends</hi> Pa<g ref="char:EOLhyphen"/>per, for Sir <hi>William</hi> had actually taken the Oaths to the preſent King, which according to them muſt be no leſs than a <hi>renouncing the cauſe of God and true Religion,</hi> and ſeeing this was a publick fault, his Confeſſion ought to have been likewiſe publick before Abſolution, for he that is not wil<g ref="char:EOLhyphen"/>ling to take ſhame for his publick ſins, can never be reckoned a true Pe<g ref="char:EOLhyphen"/>nitent, or fit to receive Abſolution; and how it can be juſtified in Mr. <hi>Collier</hi> to abſolve Sir <hi>William</hi> in <hi>the Name of God,</hi> who according to his own Principles had publickly <hi>denied the Cauſe of God,</hi> whithout a ſolemn and publick declaration of his Sorrow for it. Let thoſe who have any ſenſe of Religion determine.</p>
+            </div>
+            <div type="defense">
+               <head>DEFENCE</head>
+               <p>SIr <hi>William Parkins</hi> (whom I had not ſeen for four or five Years laſt paſt) after his Tryal, deſired me to come to him in order to his Preparation for another World. I accordingly viſited him in <hi>Newgate,</hi> as I thought my ſelf obliged by my Character. I was put in the Liſt of thoſe who had leave to ſee him by publick Order, and had the firſt two Days the Liberty of converſing
+<pb n="4" facs="tcp:48410:3"/>with him in private. Afterwards I was not permitted to Speak, or Pray with him alone, a <hi>Keeper</hi> being always preſent. At laſt even this Permiſſion was recall'd, inſomuch that I could never ſee him from <hi>Wedneſday</hi> Morning, <hi>April</hi> the <hi>1ſt.</hi> till <hi>Friday</hi> at the Place of <hi>Execution.</hi> Sir <hi>William</hi> being under an Expectation of Death from the time of his <hi>Sentence,</hi> had given me the State of his Conſcience, and therefore deſired the Solemn Abſolution of the Church, might be Pronounced to him by me, the laſt Day. And underſtanding I was refuſed Admittance on <hi>Friday</hi> Morning, he ſent me Word that he would gladly ſee me at the Place of <hi>Execution.</hi> I went thither, and gave him the Abſolu<g ref="char:EOLhyphen"/>tion he requeſted, it being impracticable for me to do it elſewhere. This Office I perform'd Word for Word in Form, as it ſtands in the <hi>Viſitation of the Sick.</hi> And now where lies the great Crime of all this. When a Man has declared his Sorrow for all the Faults, and Miſcarriages of his Life, and qualified him<g ref="char:EOLhyphen"/>ſelf for the Priviledge of Abſolution, with what Juſtice could it be denied him? Ought not Dying Perſons to be Supported in their laſt Agonies, and paſs into the other World with all the Advantage the Church can give them? I am ſur<g ref="char:EOLhyphen"/>prized, ſo regular a Proceeding as this, ſhould give ſo much Offence, and make ſo much a Noiſe as I perceive it has done. Some People I underſtand are diſ<g ref="char:EOLhyphen"/>pleas'd at the Office being perform'd with <hi>Impoſition</hi> of <hi>Hands.</hi> Now this is not only an Innocent, but an Ancient Ceremony of Abſolution. 'Twas the ge<g ref="char:EOLhyphen"/>neral Practiſe of the Primitive Church in ſuch caſes, long before there were any Exceptions to the <hi>Roman Communion.</hi> 'Tis in the Opinion of ſeveral Fathers, and good Modern Expoſitors, referr'd to by the Apoſtle <hi>(1 Tim. 5.22.)</hi> 'Tis likewiſe preſcribed the <hi>Aſſiſting Presbyters</hi> in our own <hi>Ordination-Form:</hi> But I ſuppoſe I need ſay no more in defence of this <hi>Circumſtance.</hi> To proceed. Others ſeem very much ſhock'd at the Thing it ſelf; and think it a ſtrange <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſumption to admit a Perſon charged with ſo high a Crime, to the benefit of Abſolution. With ſubmiſſion, this is concluding a great deal too faſt. Are all <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eople damned that are caſt in a Capital Indictment? If ſo, to what purpoſe are they viſited by Divines? why are they exhorted to Repentance, and have Time allow'd them to fit them for Death? But if they may be acquitted hereafter, notwithſtanding their Condemnation here; If they may be reco<g ref="char:EOLhyphen"/>ver'd by Recollection, by Repentance, and Reſignation, why ſhould the Church refuſe them her Pardon on <hi>Earth,</hi> when ſhe believes 'tis paſſed in <hi>Heaven?</hi> The Power of the <hi>Keys</hi> was given for this purpoſe, that the <hi>Miniſters</hi> of God might <hi>bind</hi> or <hi>looſe,</hi> as the Diſpoſition of the Perſon required. The latter I ſincerely believed to be Sir <hi>William</hi>'s Caſe: I judged him to have a full <hi>Right</hi> to all the Priviledges of <hi>Communion:</hi> And therefore had I denied him Abſolution upon his Requeſt, I had failed in my Duty, and gone againſt the Authority both of the <hi>Ancient</hi> and <hi>Engliſh</hi> Church. I 'tis ſaid that the Na<g ref="char:EOLhyphen"/>ture o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this Gentleman's harge required his being Abſolved in Private. To this I anſwer, ſo be had been; had I been permitted to viſit him the laſt Morn<g ref="char:EOLhyphen"/>ing. But this Liberty was refuſed me more than once, And I hope I ſhall not be blamed for Impoſſibilities of other Mens making. In ſhort, he ſeem'd very deſirous of Abſolution at my Hands, as being the only Perſon acquainted with his Condition. Privately 'twas not in my Power to give it him; So that he muſt
+<pb n="5" facs="tcp:48410:3"/>either receive it Publickly from me, or not at all; But Sir <hi>William</hi> confeſs'd himſelf acquainted with the intended <hi>Aſſaſſination.</hi> Pray did he confeſs it to me, and have I revealed any Part of his Confeſſion? Then I had been guilty of <hi>High Miſdemeanor</hi> inded. I had broke the <hi>113th.</hi> Cannon, and been Pronoun<g ref="char:EOLhyphen"/>ced <hi>Irregular</hi> by the Church. And he that falls under <hi>Irregularity,</hi> is for ever after incapable of Executing the Office of a Prieſt. (Dr. <hi>Heylin's</hi> Introduct to <hi>Cyprian Angel.</hi> p. <hi>6.</hi>) I confeſs there is an Exception in the Canon, but that does not reach the Caſe in Hand, even upon the largeſt Suppoſition. Well! But Sir <hi>William</hi> own'd this Charge before the <hi>Committee.</hi> How could I know that? I neither ſaw Sir <hi>William</hi> after his Examination, till <hi>Friday</hi> Noon, nor the <hi>Votes</hi> which mentioned it till after that Time. But he confeſs'd it in his <hi>Paper.</hi> What then? Which ways does the <hi>Paper concern</hi> me? 'Tis well known Sir <hi>William Parkins</hi> was a Man of Senſe, and bred to <hi>Law</hi> and <hi>Letters,</hi> and needed no help to aſſiſt him in Writing a few Lines. Beſides, I was not per<g ref="char:EOLhyphen"/>mitted to come near him for more than two Day's before he ſuffer'd: Neither was he allow'd ſo much as Pen and Ink till the laſt Morning. Then it was that he penn'd his <hi>Speech,</hi> as I am told by thoſe who were preſent; and having read it before the <hi>Keeper,</hi> deliver'd a Copy of it to a Friend, which was not ſhew'd to me till after the <hi>Execution.</hi> Indeed; I did believe he would leave ſome <hi>Paper</hi> behind him, both becauſe 'tis cuſtomary upon ſuch ſad Occaſions; and becauſe on <hi>Tueſday</hi> Night when he expected Death on <hi>Wedneſday,</hi> he deſired Pen Ink and Paper, for that purpoſe.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>NO body blames Mr. <hi>Collier</hi> for <hi>viſiting Sir</hi> William <hi>in priſon,</hi> or for <hi>attending him at the place of Execution,</hi> but he is juſtly blamable for giving publick Abſolution to a man who had been guilty of publick faults, both in our ſenſe and in his own without publick Repentance, which was a direct impeachment of the Juſtice of the Nation, and a ſolemn declaration to all the beholders, that Sir <hi>William</hi> had done nothing worthy of Death, but was a Martyr and no Malefactor. If the Ordinary of <hi>Newgate,</hi> ſhould pre<g ref="char:EOLhyphen"/>cume to Abſolve Notorious Fellons or Highwaymen at the place of Exe<g ref="char:EOLhyphen"/>cution, without a publick declaration of their ſorrow for their Crimes, all men <hi>would ſay that he did thereby encourage Felony and Robbery:</hi> And why the Goverment ſhould not put the like conſtruction upon Mr. <hi>Colliers</hi> Abſolu<g ref="char:EOLhyphen"/>tion of Sir <hi>William Parkins,</hi> who was condemned for endeavouring to Murder the King, and procure an Invaſion from <hi>France,</hi> let his own reaſon anſwer; and why his own Party ſhould not look upon him as an encoura<g ref="char:EOLhyphen"/>ger of thoſe who deny <hi>the cauſe of God and true Religion,</hi> ſeeing he abſol<g ref="char:EOLhyphen"/>ved one who was notoriouſly guilty of that Crime in their ſenſe without publick repentance, let him anſwer it to them and his own Conſcience. Its true he alledges that Sir <hi>William declared his ſorrow for all the faults and miſcarriages of his Life, and qualified himſelf for abſolution,</hi> but he does not tell us that his <hi>concern in the Aſſaſſination,</hi> or his <hi>taking the Oaths
+<pb n="6" facs="tcp:48410:4"/>to King William</hi> was among thoſe faults, and though he really had confeſſed them, certainly Mr. <hi>Collier</hi> will not be ſo bold as to ſay that a private Confeſſion is attonement enough for publick ſins; the very light of Rea<g ref="char:EOLhyphen"/>ſon will teach him that Sir <hi>William</hi> ought to have made publick ſatisfact<g ref="char:EOLhyphen"/>on to thoſe to whom he had given a publick offence, and Mr. <hi>Collier</hi> can<g ref="char:EOLhyphen"/>not be ignorant of the Apoſtles Command to <hi>Timothy,</hi> 1 <hi>Ep.</hi> 5.20. to rebuke them that ſin openly in the preſence of all; and ſeeing he ſeems to think that the laying on of hands mentioned in the 22. <hi>v.</hi> refers to Abſo<g ref="char:EOLhyphen"/>tion he ought have taken heed to the Command, not to do it ſuddenly, which he muſt needs have contravened, by doing it before a publick re<g ref="char:EOLhyphen"/>pentance. Mr. <hi>Collier</hi> may now likewiſe perceive that the Fathers of the Church reflect upon the manner of his Abſolution, as <hi>inſolent and unpreſidented;</hi> and if he pleaſes to look into the Commentaors, he will find that the far greater part are againſt his Expoſition of that place, tho its not the manner of the Abſolution; which is ſo much excepted againſt as that he ſhould have abſolved them without publick Repentance; and till he anſwers that material Ob<g ref="char:EOLhyphen"/>jection againſt it, his little Queſtions, whether all people <hi>be damned that are caſt in a Capital Indictment, &amp;c.</hi> are nothing to the purpoſe, and his judgment that Sir <hi>William</hi> had a Right to Abſolution, muſt be lookt up<g ref="char:EOLhyphen"/>on as Erroneous. And whereas Mr. <hi>Collier</hi> thinks it a ſufficient Apology for his doing it publickly, becauſe he could not be admitted to do it other<g ref="char:EOLhyphen"/>wiſe; he would do well to obſerve that the publickneſs of the perfor<g ref="char:EOLhyphen"/>mance does only aggravate the fault, but does not make it one, and con<g ref="char:EOLhyphen"/>ſidering the ſpirit of the Party theres reaſon to think, that the place of Execution was choſen as the moſt proper to harden the poor Criminals in their obſtinacy, and to ſound a Trumpet to Rebellion, and Aſſaſſination, for certainly to die a Martyr <hi>for the Cauſe of God and Religion, and to be recommended to the Tribunal of Heaven as ſuch by by the Churches Abſoluti<g ref="char:EOLhyphen"/>on,</hi> is a very perſuaſive Argument, to make any man follow ſuch Courſes as will entitle him to thoſe priviledges.</p>
+               <p>Mr. <hi>Collier</hi>'s Aſſertion, that he had <hi>gone againſt the Authority both of the Ancient and Engliſh Church if he had reſus'd Sir</hi> William <hi>Abſolution,</hi> is ſpo<g ref="char:EOLhyphen"/>ken without book, the very peruſal of the Office for Viſitation of the Sick is enough to anſwer the Objection as to the Church of <hi>England;</hi> and let him produce any Canon of the Ancient Church for giving Publick Abſolution to a Condemned Criminal, or a Publick Offender without Publick Repentance if he can.</p>
+               <p>Mr. <hi>Collier</hi> asks ſo many little impertinent Queſtions about his being privy to Sir <hi>William</hi>'s Acknowledgment of his Concern in the Aſſaſſination, that they argue his Guilt more than his Innocence; an Ingenuous Man would have plainly told whether he knew of it or not: And as for the 113th Ca<g ref="char:EOLhyphen"/>non of the Church, <hi>by which he muſt have been pronounc'd Irregular, and by conſequence uncapable of the Prieſthood ever after if he had reveal'd Sir</hi> Wil<g ref="char:EOLhyphen"/>liam<hi>'s Confeſſion:</hi> He may take for Anſwer, That if either That, or any other Canon of the Church does encourage him to Abſolve condemned Parricides and Aſſaſſines without publick Repentance, its the Intereſt of the State to
+<pb n="7" facs="tcp:48410:4"/>Nail 'em up. But ſeeing ſo many of the Biſhops, to whom the Clergy ſwear Canonical Obedience, have declared him Irregular already, it's all one whe<g ref="char:EOLhyphen"/>ther the Canons roar or be ſilent, the Biſhops have the chief Power in making the Canons, and the beſt Right to interpret them. But without all this quibbling, Mr. <hi>Collier</hi> could not but know that it was proved againſt Sir <hi>William,</hi> and that thoſe upon whom the ſame Witneſſes ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proved the ſame Crime, confeſſed it at the Gallows; which might have given Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi> Ground enough to ſuſpect Sir <hi>William</hi>'s Guilt, and by conſequence to have mov'd him to a ſpecial Confeſſion, according to the Rubrick, and then he had been in no hazard of the 113th Canon, nor any other of the Guns which lie in the Magazine at the Weſt-end of <hi>Paul</hi>'s: But we hear nothing of any ſuch fair Dealing; nor will his faint Declaration againſt any <hi>Me<g ref="char:EOLhyphen"/>thods of Murder</hi> be lookt upon, by any Man of Common Senſe, as an Argu<g ref="char:EOLhyphen"/>ment to prove, that Mr. <hi>Collier</hi> did not allow of the Aſſaſſination for which Sir <hi>William Parkins</hi> was condemned; and ſeeing he knows himſelf ſuſpected and charged as an Incourager of it by the Juſtice of the Nation: It is no more than what might have been expected from an honeſt Man, for Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi> to have publiſht his Abhorrence of that intended Murder in a more par<g ref="char:EOLhyphen"/>ticular manner.</p>
+            </div>
+            <div type="defense">
+               <head>DEFENCE.</head>
+               <p>AND now after all, I deſire to know in what ſingle Circumſtance I have miſ-be-have my ſelf, or done any thing unbecoming my Profeſſion? 'Tis very hard a Man muſt be Perſecuted for Performing the Obligations of his Office, and the Duties of common Friendſhip, and Humanity; As for any Methods of <hi>Murder.</hi> I diſlike them no leſs than thoſe who rail loudeſt; and nothing but a Mercenary Malice could ſuggeſt the contrary. But if the Functions of the Prieſthood, and the Aſſiſtances of Religion, and the Reading the Publick <hi>Li<g ref="char:EOLhyphen"/>turgy</hi> are grown a Crime, I am not concerned at the Imputation: I hope the <hi>complying</hi> Clergy will take ſome care to check the Diſorders, and inform the ig<g ref="char:EOLhyphen"/>norance of their People a little better. If they are unreproved for theſe ſlande<g ref="char:EOLhyphen"/>rous Exceſſes, their Paſtors muſt one Day expect to account for it.</p>
+               <p>As for thoſe in <hi>Power,</hi> 'tis poſſible they may have been govern'd by Miſ<g ref="char:EOLhyphen"/>reports, and ſuddaein Reſentment: if ſo, ſecond Thoughts, and the Reaſon of the Caſe will put a ſtop to their Severities. And that this maybe the iſſue of the Buſineſs, I think my ſelf obliged to wiſh as well for their ſakes, as my own.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Apr. 9th. 1696.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Jer. Collier.</signed>
+               </closer>
+            </div>
+            <div type="answer">
+               <pb n="8" facs="tcp:48410:5"/>
+               <head>ANSWER.</head>
+               <p>MR. <hi>Collier,</hi> in his Concluſion, asks the ſame Queſtions over and over again, which have been anſwer'd already; and, according to his rate of Ingenuity, he would inſinuate, that he is perſecuted for performance of the Functions of the Prieſthood, and reading the publick Liturgy; whereas he is not only accuſed, but proved to have tranſgreſſed the Orders of both: And by this time, I ſuppoſe, he is convinc'd to his Mortification, that it is not only the Ignorant People who find fault with his Conduct, but alſo the Learned Bi<g ref="char:EOLhyphen"/>ſhops, whom the Complying Clergy have no power to check, if they had never ſo much mind to it.</p>
+               <p>Mr. <hi>Collier</hi>'s Epilogue is very Magiſterial, and thoſe in Power, it ſeems, are concerned to Regard it, as well for their own ſakes as the Reverend Au<g ref="char:EOLhyphen"/>thors. This is indeed one of the moſt Gentile Applications to thoſe in Power, eſpecially from the Pen of a Clergyman, that we ſhall readily meet with; and really, when I reflect upon the Impudent Behaviour of <hi>Cranburne</hi> at his Tryal and elſewhere, I am apt to think that he is one of the Doctor's diſci<g ref="char:EOLhyphen"/>ples; and I aſſure him, if it be ſo, we have good reaſon to ſay, <hi>Like Ma<g ref="char:EOLhyphen"/>ſter, like Scholar.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>☞ A Letter to the <hi>Three Abſolvers,</hi> Mr. <hi>Cook,</hi> Mr. <hi>Collier</hi> and Mr. <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t:</hi> Being Reflections on the Papers delivered by Sir <hi>John Friend</hi> and Sir. <hi>William Parkins,</hi> to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> at <hi>Tyburn,</hi> the place of Execution, <hi>April</hi> 3. 1696. Which ſaid <hi>PAPERS</hi> are Printed at length, and anſwered Paragraph by Paragraph. <hi>Price 6d.</hi>
+            </p>
+            <p>☞ The Parable of the <hi>Three Jackdaws. &amp;c.</hi> both, Printed for <hi>Ri. Baldwin.</hi> 1696.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick-Lane.</hi> 1696. <hi>Price 2d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
